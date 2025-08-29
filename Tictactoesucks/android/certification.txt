@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Tictactoesucks 1.0
+---------------------------------------------------
+
+app_name - 						Tictactoesucks
+app_alias - 					tictactoesucks
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				South East
+app_author_country - 			Botswana
+app_password - 					b4dJCcwPu11E
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 28th of August 2025 10:05:11 PM
+
+https://webintoapp.com
+---------------------------------------------------
+
